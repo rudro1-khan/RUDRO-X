@@ -73,7 +73,7 @@ logo =f"""
 \033[33;1m::::::M               M::::::MR::::::R     R:::::R     X:::::X       X:::::X
 \033[33;1m               MMMMMMMMRRRRRRRR     RRRRRRR     XXXXXXX       XXXXXXX
 {A}──────────────────────────────────────────────────
-{G1}[{A}={G1}]{G1} OWNER    {A}:{G1} RUDRO {G1}[{A}={G2}]{G2} FACEBOOK {A}:{G2} SA ASIF
+{G1}[{A}={G1}]{G1} OWNER    {A}:{G1} RUDRO {G1}[{A}={G2}]{G2} FACEBOOK {A}:{G2} MD RUDRO KHAN
 {G1}[{A}={G3}]{G3} TOOLTYPE {A}:{G3} FILE {A}&{G4} RANDOM CLONING
 {G1}[{A}={G4}]{G4} STATUS   {A}:{G4} FREE SELL
 {A}─────────────────────────────────────────────────.─"""
